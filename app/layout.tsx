@@ -11,7 +11,7 @@ const defaultUrl = process.env.VERCEL_URL
 export const metadata = {
   metadataBase: new URL(defaultUrl),
   title: "Cotton Flower YSA Ward",
-  description: "News and Updates for members of the CottonFlower USA Ward",
+  description: "News and Updates for members of the CottonFlower YSA Ward",
 };
 
 export default function RootLayout({
